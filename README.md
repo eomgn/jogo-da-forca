@@ -9,7 +9,7 @@ O projeto consiste na criação de uma aplicação JavaScript. O objetivo é um 
 ### 1. Clonando o repositório
 
 ```
-git clone https://github.com/eomgn/list-taks
+git clone https://github.com/eomgn/jogo-da-forca
 ```
 
 ### 2. Instalando as dependências
